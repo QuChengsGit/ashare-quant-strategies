@@ -1,0 +1,22 @@
+{
+  "n": 9,
+  "uuid": "afdfcdd5-afe8-4293-a9ca-c45a8ae337b9",
+  "title": "9、稳定增长选股策略",
+  "slug": "009_稳定增长选股策略",
+  "category": "A股基本面/涨停/小市值/多因子选股",
+  "text_len": 3599,
+  "code_snippets": 2,
+  "images": [],
+  "downloads": [],
+  "paths": {
+    "markdown": "content.md",
+    "code": [
+      "code/snippet_01.py",
+      "code/snippet_02.py"
+    ],
+    "downloads": null,
+    "images": []
+  },
+  "built_at": "2026-07-14T18:46:08+08:00",
+  "source": "xiaobot_api_post"
+}

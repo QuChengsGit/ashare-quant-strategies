@@ -1,0 +1,23 @@
+{
+  "n": 74,
+  "uuid": "780118a1-912c-4e08-b6cb-0eac1a48699f",
+  "title": "74、多因子智能选股策略",
+  "slug": "074_多因子智能选股策略",
+  "category": "A股基本面/涨停/小市值/多因子选股",
+  "text_len": 6300,
+  "code_snippets": 3,
+  "images": [],
+  "downloads": [],
+  "paths": {
+    "markdown": "content.md",
+    "code": [
+      "code/snippet_01.py",
+      "code/snippet_02.py",
+      "code/snippet_03.py"
+    ],
+    "downloads": null,
+    "images": []
+  },
+  "built_at": "2026-07-14T18:46:17+08:00",
+  "source": "xiaobot_api_post"
+}

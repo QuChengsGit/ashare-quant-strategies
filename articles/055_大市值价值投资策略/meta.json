@@ -1,0 +1,29 @@
+{
+  "n": 55,
+  "uuid": "c4e42136-3a7f-46db-a3b2-70cfa9c97d8d",
+  "title": "55、大市值价值投资策略",
+  "slug": "055_大市值价值投资策略",
+  "category": "A股基本面/涨停/小市值/多因子选股",
+  "text_len": 7364,
+  "code_snippets": 9,
+  "images": [],
+  "downloads": [],
+  "paths": {
+    "markdown": "content.md",
+    "code": [
+      "code/snippet_01.py",
+      "code/snippet_02.py",
+      "code/snippet_03.py",
+      "code/snippet_04.py",
+      "code/snippet_05.py",
+      "code/snippet_06.py",
+      "code/snippet_07.py",
+      "code/snippet_08.py",
+      "code/snippet_09.py"
+    ],
+    "downloads": null,
+    "images": []
+  },
+  "built_at": "2026-07-14T18:46:14+08:00",
+  "source": "xiaobot_api_post"
+}

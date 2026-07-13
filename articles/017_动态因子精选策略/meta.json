@@ -1,0 +1,33 @@
+{
+  "n": 17,
+  "uuid": "ec6d7282-c8c6-429d-bf4b-44e12eb4913a",
+  "title": "17、动态因子精选策略",
+  "slug": "017_动态因子精选策略",
+  "category": "其他/未归类",
+  "text_len": 7550,
+  "code_snippets": 13,
+  "images": [],
+  "downloads": [],
+  "paths": {
+    "markdown": "content.md",
+    "code": [
+      "code/snippet_01.py",
+      "code/snippet_02.py",
+      "code/snippet_03.py",
+      "code/snippet_04.py",
+      "code/snippet_05.py",
+      "code/snippet_06.py",
+      "code/snippet_07.py",
+      "code/snippet_08.py",
+      "code/snippet_09.py",
+      "code/snippet_10.py",
+      "code/snippet_11.py",
+      "code/snippet_12.py",
+      "code/snippet_13.py"
+    ],
+    "downloads": null,
+    "images": []
+  },
+  "built_at": "2026-07-14T18:46:09+08:00",
+  "source": "xiaobot_api_post"
+}

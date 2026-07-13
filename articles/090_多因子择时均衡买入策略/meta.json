@@ -1,0 +1,28 @@
+{
+  "n": 90,
+  "uuid": "c08dc1a6-86cc-493a-883e-6bd2302c4a64",
+  "title": "90、多因子择时均衡买入策略",
+  "slug": "090_多因子择时均衡买入策略",
+  "category": "RSRS/市场择时",
+  "text_len": 7027,
+  "code_snippets": 8,
+  "images": [],
+  "downloads": [],
+  "paths": {
+    "markdown": "content.md",
+    "code": [
+      "code/snippet_01.py",
+      "code/snippet_02.py",
+      "code/snippet_03.py",
+      "code/snippet_04.py",
+      "code/snippet_05.py",
+      "code/snippet_06.py",
+      "code/snippet_07.py",
+      "code/snippet_08.py"
+    ],
+    "downloads": null,
+    "images": []
+  },
+  "built_at": "2026-07-14T18:46:20+08:00",
+  "source": "xiaobot_api_post"
+}

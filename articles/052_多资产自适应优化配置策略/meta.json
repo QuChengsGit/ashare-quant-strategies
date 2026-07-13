@@ -1,0 +1,27 @@
+{
+  "n": 52,
+  "uuid": "e82749b1-8037-4c22-a9b9-6fa0cb4ade18",
+  "title": "52、多资产自适应优化配置策略",
+  "slug": "052_多资产自适应优化配置策略",
+  "category": "多资产/风险均衡/再平衡/配置",
+  "text_len": 4697,
+  "code_snippets": 7,
+  "images": [],
+  "downloads": [],
+  "paths": {
+    "markdown": "content.md",
+    "code": [
+      "code/snippet_01.py",
+      "code/snippet_02.py",
+      "code/snippet_03.py",
+      "code/snippet_04.py",
+      "code/snippet_05.py",
+      "code/snippet_06.py",
+      "code/snippet_07.py"
+    ],
+    "downloads": null,
+    "images": []
+  },
+  "built_at": "2026-07-14T18:46:14+08:00",
+  "source": "xiaobot_api_post"
+}

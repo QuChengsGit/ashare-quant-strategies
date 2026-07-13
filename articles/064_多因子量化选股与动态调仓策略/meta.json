@@ -1,0 +1,26 @@
+{
+  "n": 64,
+  "uuid": "bd7913f5-5988-4691-8578-547abfa7f442",
+  "title": "64、多因子量化选股与动态调仓策略",
+  "slug": "064_多因子量化选股与动态调仓策略",
+  "category": "A股基本面/涨停/小市值/多因子选股",
+  "text_len": 5523,
+  "code_snippets": 6,
+  "images": [],
+  "downloads": [],
+  "paths": {
+    "markdown": "content.md",
+    "code": [
+      "code/snippet_01.py",
+      "code/snippet_02.py",
+      "code/snippet_03.py",
+      "code/snippet_04.py",
+      "code/snippet_05.py",
+      "code/snippet_06.py"
+    ],
+    "downloads": null,
+    "images": []
+  },
+  "built_at": "2026-07-14T18:46:16+08:00",
+  "source": "xiaobot_api_post"
+}

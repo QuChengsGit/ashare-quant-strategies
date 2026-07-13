@@ -1,0 +1,60 @@
+{
+  "n": 119,
+  "uuid": "cb9aba19-752a-452f-821c-fd4821b781d6",
+  "title": "119、量化涨停打板择时策略（源码分析与下载）",
+  "slug": "119_量化涨停打板择时策略(源码分析与下载)",
+  "category": "RSRS/市场择时",
+  "text_len": 26941,
+  "code_snippets": 34,
+  "images": [],
+  "downloads": [
+    {
+      "url": "https://pan.quark.cn/s/f79fcb4f8145",
+      "code": "str",
+      "note": ""
+    }
+  ],
+  "paths": {
+    "markdown": "content.md",
+    "code": [
+      "code/snippet_01.py",
+      "code/snippet_02.py",
+      "code/snippet_03.py",
+      "code/snippet_04.py",
+      "code/snippet_05.py",
+      "code/snippet_06.py",
+      "code/snippet_07.py",
+      "code/snippet_08.py",
+      "code/snippet_09.py",
+      "code/snippet_10.py",
+      "code/snippet_11.py",
+      "code/snippet_12.py",
+      "code/snippet_13.py",
+      "code/snippet_14.py",
+      "code/snippet_15.py",
+      "code/snippet_16.py",
+      "code/snippet_17.py",
+      "code/snippet_18.py",
+      "code/snippet_19.py",
+      "code/snippet_20.py",
+      "code/snippet_21.py",
+      "code/snippet_22.py",
+      "code/snippet_23.py",
+      "code/snippet_24.py",
+      "code/snippet_25.py",
+      "code/snippet_26.py",
+      "code/snippet_27.py",
+      "code/snippet_28.py",
+      "code/snippet_29.py",
+      "code/snippet_30.py",
+      "code/snippet_31.py",
+      "code/snippet_32.py",
+      "code/snippet_33.py",
+      "code/snippet_34.py"
+    ],
+    "downloads": "downloads.md",
+    "images": []
+  },
+  "built_at": "2026-07-14T18:46:24+08:00",
+  "source": "xiaobot_api_post"
+}

@@ -1,0 +1,23 @@
+{
+  "n": 8,
+  "uuid": "550c03b7-ced4-42fd-a006-25bc0e2a3962",
+  "title": "8、多因子优选轮动策略",
+  "slug": "008_多因子优选轮动策略",
+  "category": "动量/趋势/轮动/均线/回调/ETF",
+  "text_len": 6982,
+  "code_snippets": 3,
+  "images": [],
+  "downloads": [],
+  "paths": {
+    "markdown": "content.md",
+    "code": [
+      "code/snippet_01.py",
+      "code/snippet_02.py",
+      "code/snippet_03.py"
+    ],
+    "downloads": null,
+    "images": []
+  },
+  "built_at": "2026-07-14T18:46:08+08:00",
+  "source": "xiaobot_api_post"
+}

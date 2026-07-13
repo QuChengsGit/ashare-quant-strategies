@@ -1,0 +1,32 @@
+{
+  "n": 98,
+  "uuid": "c8f51d23-b4bf-450d-a872-9ed926166ce2",
+  "title": "98、RSRS动量择时交易策略",
+  "slug": "098_RSRS动量择时交易策略",
+  "category": "RSRS/市场择时",
+  "text_len": 5848,
+  "code_snippets": 12,
+  "images": [],
+  "downloads": [],
+  "paths": {
+    "markdown": "content.md",
+    "code": [
+      "code/snippet_01.py",
+      "code/snippet_02.py",
+      "code/snippet_03.py",
+      "code/snippet_04.py",
+      "code/snippet_05.py",
+      "code/snippet_06.py",
+      "code/snippet_07.py",
+      "code/snippet_08.py",
+      "code/snippet_09.py",
+      "code/snippet_10.py",
+      "code/snippet_11.py",
+      "code/snippet_12.py"
+    ],
+    "downloads": null,
+    "images": []
+  },
+  "built_at": "2026-07-14T18:46:21+08:00",
+  "source": "xiaobot_api_post"
+}

@@ -1,0 +1,31 @@
+{
+  "n": 62,
+  "uuid": "32680f34-d1a9-428e-8289-af0a74f35b02",
+  "title": "62、动态选股与风险控制策略",
+  "slug": "062_动态选股与风险控制策略",
+  "category": "A股基本面/涨停/小市值/多因子选股",
+  "text_len": 4872,
+  "code_snippets": 11,
+  "images": [],
+  "downloads": [],
+  "paths": {
+    "markdown": "content.md",
+    "code": [
+      "code/snippet_01.py",
+      "code/snippet_02.py",
+      "code/snippet_03.py",
+      "code/snippet_04.py",
+      "code/snippet_05.py",
+      "code/snippet_06.py",
+      "code/snippet_07.py",
+      "code/snippet_08.py",
+      "code/snippet_09.py",
+      "code/snippet_10.py",
+      "code/snippet_11.py"
+    ],
+    "downloads": null,
+    "images": []
+  },
+  "built_at": "2026-07-14T18:46:15+08:00",
+  "source": "xiaobot_api_post"
+}

@@ -1,0 +1,35 @@
+{
+  "n": 95,
+  "uuid": "405cae4f-7406-4d66-849f-bd40eb3d1350",
+  "title": "95、多因子高股息择时策略",
+  "slug": "095_多因子高股息择时策略",
+  "category": "RSRS/市场择时",
+  "text_len": 8672,
+  "code_snippets": 15,
+  "images": [],
+  "downloads": [],
+  "paths": {
+    "markdown": "content.md",
+    "code": [
+      "code/snippet_01.py",
+      "code/snippet_02.py",
+      "code/snippet_03.py",
+      "code/snippet_04.py",
+      "code/snippet_05.py",
+      "code/snippet_06.py",
+      "code/snippet_07.py",
+      "code/snippet_08.py",
+      "code/snippet_09.py",
+      "code/snippet_10.py",
+      "code/snippet_11.py",
+      "code/snippet_12.py",
+      "code/snippet_13.py",
+      "code/snippet_14.py",
+      "code/snippet_15.py"
+    ],
+    "downloads": null,
+    "images": []
+  },
+  "built_at": "2026-07-14T18:46:20+08:00",
+  "source": "xiaobot_api_post"
+}

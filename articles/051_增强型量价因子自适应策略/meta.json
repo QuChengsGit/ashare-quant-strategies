@@ -1,0 +1,30 @@
+{
+  "n": 51,
+  "uuid": "3abecf04-a6d4-41f7-95a0-469b2e872b8e",
+  "title": "51、增强型量价因子自适应策略",
+  "slug": "051_增强型量价因子自适应策略",
+  "category": "A股基本面/涨停/小市值/多因子选股",
+  "text_len": 5812,
+  "code_snippets": 10,
+  "images": [],
+  "downloads": [],
+  "paths": {
+    "markdown": "content.md",
+    "code": [
+      "code/snippet_01.py",
+      "code/snippet_02.py",
+      "code/snippet_03.py",
+      "code/snippet_04.py",
+      "code/snippet_05.py",
+      "code/snippet_06.py",
+      "code/snippet_07.py",
+      "code/snippet_08.py",
+      "code/snippet_09.py",
+      "code/snippet_10.py"
+    ],
+    "downloads": null,
+    "images": []
+  },
+  "built_at": "2026-07-14T18:46:14+08:00",
+  "source": "xiaobot_api_post"
+}

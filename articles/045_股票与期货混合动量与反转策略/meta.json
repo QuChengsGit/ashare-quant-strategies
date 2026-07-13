@@ -1,0 +1,30 @@
+{
+  "n": 45,
+  "uuid": "6188c70d-841b-44af-b182-6b7f2e53f69d",
+  "title": "45、股票与期货混合动量与反转策略",
+  "slug": "045_股票与期货混合动量与反转策略",
+  "category": "多资产/风险均衡/再平衡/配置",
+  "text_len": 7323,
+  "code_snippets": 10,
+  "images": [],
+  "downloads": [],
+  "paths": {
+    "markdown": "content.md",
+    "code": [
+      "code/snippet_01.py",
+      "code/snippet_02.py",
+      "code/snippet_03.py",
+      "code/snippet_04.py",
+      "code/snippet_05.py",
+      "code/snippet_06.py",
+      "code/snippet_07.py",
+      "code/snippet_08.py",
+      "code/snippet_09.py",
+      "code/snippet_10.py"
+    ],
+    "downloads": null,
+    "images": []
+  },
+  "built_at": "2026-07-14T18:46:13+08:00",
+  "source": "xiaobot_api_post"
+}

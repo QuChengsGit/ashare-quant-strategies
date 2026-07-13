@@ -1,0 +1,24 @@
+{
+  "n": 78,
+  "uuid": "ed1df561-539e-4df4-ac6e-30acdc7b1cf3",
+  "title": "78、多因子牛熊市择时策略",
+  "slug": "078_多因子牛熊市择时策略",
+  "category": "RSRS/市场择时",
+  "text_len": 8605,
+  "code_snippets": 4,
+  "images": [],
+  "downloads": [],
+  "paths": {
+    "markdown": "content.md",
+    "code": [
+      "code/snippet_01.py",
+      "code/snippet_02.py",
+      "code/snippet_03.py",
+      "code/snippet_04.py"
+    ],
+    "downloads": null,
+    "images": []
+  },
+  "built_at": "2026-07-14T18:46:18+08:00",
+  "source": "xiaobot_api_post"
+}

@@ -1,0 +1,30 @@
+{
+  "n": 42,
+  "uuid": "f003939f-1bb8-452d-81be-8f9bfbd46633",
+  "title": "42、智能动量择时交易策略",
+  "slug": "042_智能动量择时交易策略",
+  "category": "RSRS/市场择时",
+  "text_len": 7922,
+  "code_snippets": 10,
+  "images": [],
+  "downloads": [],
+  "paths": {
+    "markdown": "content.md",
+    "code": [
+      "code/snippet_01.py",
+      "code/snippet_02.py",
+      "code/snippet_03.py",
+      "code/snippet_04.py",
+      "code/snippet_05.py",
+      "code/snippet_06.py",
+      "code/snippet_07.py",
+      "code/snippet_08.py",
+      "code/snippet_09.py",
+      "code/snippet_10.py"
+    ],
+    "downloads": null,
+    "images": []
+  },
+  "built_at": "2026-07-14T18:46:13+08:00",
+  "source": "xiaobot_api_post"
+}

@@ -1,0 +1,44 @@
+{
+  "n": 4,
+  "uuid": "e96e699d-bdae-44f5-b96a-504c6a6a2f5f",
+  "title": "4、短期低开涨停套利策略",
+  "slug": "004_短期低开涨停套利策略",
+  "category": "均值回归/反转/套利",
+  "text_len": 8822,
+  "code_snippets": 18,
+  "images": [],
+  "downloads": [
+    {
+      "url": "https://pan.baidu.com/s/1Qk4Xjxir-Wn4QNjmBcKNkQ",
+      "code": "ydda",
+      "note": "https://pan.baidu.com/s/1Qk4Xjxir-Wn4QNjmBcKNkQ"
+    }
+  ],
+  "paths": {
+    "markdown": "content.md",
+    "code": [
+      "code/snippet_01.py",
+      "code/snippet_02.py",
+      "code/snippet_03.py",
+      "code/snippet_04.py",
+      "code/snippet_05.py",
+      "code/snippet_06.py",
+      "code/snippet_07.py",
+      "code/snippet_08.py",
+      "code/snippet_09.py",
+      "code/snippet_10.py",
+      "code/snippet_11.py",
+      "code/snippet_12.py",
+      "code/snippet_13.py",
+      "code/snippet_14.py",
+      "code/snippet_15.py",
+      "code/snippet_16.py",
+      "code/snippet_17.py",
+      "code/snippet_18.py"
+    ],
+    "downloads": "downloads.md",
+    "images": []
+  },
+  "built_at": "2026-07-14T18:46:07+08:00",
+  "source": "xiaobot_api_post"
+}

@@ -1,0 +1,23 @@
+{
+  "n": 73,
+  "uuid": "ef61fe0f-00e8-49ef-acf7-28b64a82fcf4",
+  "title": "73、精准溢价套利ETF策略",
+  "slug": "073_精准溢价套利ETF策略",
+  "category": "均值回归/反转/套利",
+  "text_len": 6214,
+  "code_snippets": 3,
+  "images": [],
+  "downloads": [],
+  "paths": {
+    "markdown": "content.md",
+    "code": [
+      "code/snippet_01.py",
+      "code/snippet_02.py",
+      "code/snippet_03.py"
+    ],
+    "downloads": null,
+    "images": []
+  },
+  "built_at": "2026-07-14T18:46:17+08:00",
+  "source": "xiaobot_api_post"
+}

@@ -1,0 +1,35 @@
+{
+  "n": 29,
+  "uuid": "42f70cb9-bc00-4930-be3b-11685a9ddf31",
+  "title": "29、高成长因子动态调整策略",
+  "slug": "029_高成长因子动态调整策略",
+  "category": "A股基本面/涨停/小市值/多因子选股",
+  "text_len": 6949,
+  "code_snippets": 15,
+  "images": [],
+  "downloads": [],
+  "paths": {
+    "markdown": "content.md",
+    "code": [
+      "code/snippet_01.py",
+      "code/snippet_02.py",
+      "code/snippet_03.py",
+      "code/snippet_04.py",
+      "code/snippet_05.py",
+      "code/snippet_06.py",
+      "code/snippet_07.py",
+      "code/snippet_08.py",
+      "code/snippet_09.py",
+      "code/snippet_10.py",
+      "code/snippet_11.py",
+      "code/snippet_12.py",
+      "code/snippet_13.py",
+      "code/snippet_14.py",
+      "code/snippet_15.py"
+    ],
+    "downloads": null,
+    "images": []
+  },
+  "built_at": "2026-07-14T18:46:11+08:00",
+  "source": "xiaobot_api_post"
+}

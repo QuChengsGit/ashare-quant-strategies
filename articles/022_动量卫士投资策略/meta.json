@@ -1,0 +1,30 @@
+{
+  "n": 22,
+  "uuid": "22a079dd-1bb7-4c99-a585-165ed7b7e463",
+  "title": "22、动量卫士投资策略",
+  "slug": "022_动量卫士投资策略",
+  "category": "动量/趋势/轮动/均线/回调/ETF",
+  "text_len": 7964,
+  "code_snippets": 10,
+  "images": [],
+  "downloads": [],
+  "paths": {
+    "markdown": "content.md",
+    "code": [
+      "code/snippet_01.py",
+      "code/snippet_02.py",
+      "code/snippet_03.py",
+      "code/snippet_04.py",
+      "code/snippet_05.py",
+      "code/snippet_06.py",
+      "code/snippet_07.py",
+      "code/snippet_08.py",
+      "code/snippet_09.py",
+      "code/snippet_10.py"
+    ],
+    "downloads": null,
+    "images": []
+  },
+  "built_at": "2026-07-14T18:46:10+08:00",
+  "source": "xiaobot_api_post"
+}

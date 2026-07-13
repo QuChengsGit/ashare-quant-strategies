@@ -1,0 +1,34 @@
+{
+  "n": 75,
+  "uuid": "8493c54d-0ac5-4636-9b31-92f30b123799",
+  "title": "75、SVR智能多因子选股策略",
+  "slug": "075_智能多因子选股策略",
+  "category": "A股基本面/涨停/小市值/多因子选股",
+  "text_len": 7926,
+  "code_snippets": 3,
+  "images": [],
+  "downloads": [
+    {
+      "url": "https://pan.baidu.com/s/14NmL2GkfsLOJVuUTTuYRbg",
+      "code": "for",
+      "note": "https://pan.baidu.com/s/14NmL2GkfsLOJVuUTTuYRbg"
+    },
+    {
+      "url": "https://pan.baidu.com/s/14NmL2GkfsLOJVuUTTuYRbg",
+      "code": "6sgs",
+      "note": ""
+    }
+  ],
+  "paths": {
+    "markdown": "content.md",
+    "code": [
+      "code/snippet_01.py",
+      "code/snippet_02.py",
+      "code/snippet_03.py"
+    ],
+    "downloads": "downloads.md",
+    "images": []
+  },
+  "built_at": "2026-07-14T18:46:17+08:00",
+  "source": "xiaobot_api_post"
+}

@@ -1,0 +1,22 @@
+{
+  "n": 76,
+  "uuid": "d6cf108b-eacd-4675-8272-8a7376d86469",
+  "title": "76、动态市值最小化选股策略",
+  "slug": "076_动态市值最小化选股策略",
+  "category": "A股基本面/涨停/小市值/多因子选股",
+  "text_len": 4198,
+  "code_snippets": 2,
+  "images": [],
+  "downloads": [],
+  "paths": {
+    "markdown": "content.md",
+    "code": [
+      "code/snippet_01.py",
+      "code/snippet_02.py"
+    ],
+    "downloads": null,
+    "images": []
+  },
+  "built_at": "2026-07-14T18:46:18+08:00",
+  "source": "xiaobot_api_post"
+}

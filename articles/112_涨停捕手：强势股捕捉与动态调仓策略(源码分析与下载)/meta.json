@@ -1,0 +1,42 @@
+{
+  "n": 112,
+  "uuid": "01ed4a65-b652-4e44-9845-114d206e3060",
+  "title": "112、涨停捕手：强势股捕捉与动态调仓策略（源码分析与下载）",
+  "slug": "112_涨停捕手：强势股捕捉与动态调仓策略(源码分析与下载)",
+  "category": "A股基本面/涨停/小市值/多因子选股",
+  "text_len": 6377,
+  "code_snippets": 10,
+  "images": [
+    "assets/images/img_01_630f92eb9e.png",
+    "assets/images/img_02_79b584de3e.png"
+  ],
+  "downloads": [
+    {
+      "url": "https://pan.baidu.com/s/1ddd7kBLD79ScWu7wUnoPwQ",
+      "code": "fwm5",
+      "note": ""
+    }
+  ],
+  "paths": {
+    "markdown": "content.md",
+    "code": [
+      "code/snippet_01.py",
+      "code/snippet_02.py",
+      "code/snippet_03.py",
+      "code/snippet_04.py",
+      "code/snippet_05.py",
+      "code/snippet_06.py",
+      "code/snippet_07.py",
+      "code/snippet_08.py",
+      "code/snippet_09.py",
+      "code/snippet_10.py"
+    ],
+    "downloads": "downloads.md",
+    "images": [
+      "assets/images/img_01_630f92eb9e.png",
+      "assets/images/img_02_79b584de3e.png"
+    ]
+  },
+  "built_at": "2026-07-14T18:46:23+08:00",
+  "source": "xiaobot_api_post"
+}

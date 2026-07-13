@@ -1,0 +1,36 @@
+{
+  "n": 109,
+  "uuid": "878aecb6-eabd-4234-a465-b8f41f594540",
+  "title": "109、因子选股盈动策略",
+  "slug": "109_因子选股盈动策略",
+  "category": "A股基本面/涨停/小市值/多因子选股",
+  "text_len": 8140,
+  "code_snippets": 10,
+  "images": [],
+  "downloads": [
+    {
+      "url": "https://pan.baidu.com/s/1rgJgkUGaL22IBnXEjN23vw",
+      "code": "jgcf",
+      "note": "https://pan.baidu.com/s/1rgJgkUGaL22IBnXEjN23vw"
+    }
+  ],
+  "paths": {
+    "markdown": "content.md",
+    "code": [
+      "code/snippet_01.py",
+      "code/snippet_02.py",
+      "code/snippet_03.py",
+      "code/snippet_04.py",
+      "code/snippet_05.py",
+      "code/snippet_06.py",
+      "code/snippet_07.py",
+      "code/snippet_08.py",
+      "code/snippet_09.py",
+      "code/snippet_10.py"
+    ],
+    "downloads": "downloads.md",
+    "images": []
+  },
+  "built_at": "2026-07-14T18:46:22+08:00",
+  "source": "xiaobot_api_post"
+}

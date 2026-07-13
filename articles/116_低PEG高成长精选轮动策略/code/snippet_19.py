@@ -1,0 +1,9 @@
+set_order_cost(
+    OrderCost(
+        close_tax=0.001,
+        open_commission=0.0002,
+        close_commission=0.0002,
+        min_commission=0.01
+    ),
+    type='stock'
+)

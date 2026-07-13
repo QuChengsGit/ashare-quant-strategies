@@ -1,0 +1,28 @@
+{
+  "n": 38,
+  "uuid": "d54675b2-2981-41ca-a301-679e624026cc",
+  "title": "38、动量择时ETF轮动策略",
+  "slug": "038_动量择时ETF轮动策略",
+  "category": "RSRS/市场择时",
+  "text_len": 4453,
+  "code_snippets": 8,
+  "images": [],
+  "downloads": [],
+  "paths": {
+    "markdown": "content.md",
+    "code": [
+      "code/snippet_01.py",
+      "code/snippet_02.py",
+      "code/snippet_03.py",
+      "code/snippet_04.py",
+      "code/snippet_05.py",
+      "code/snippet_06.py",
+      "code/snippet_07.py",
+      "code/snippet_08.py"
+    ],
+    "downloads": null,
+    "images": []
+  },
+  "built_at": "2026-07-14T18:46:12+08:00",
+  "source": "xiaobot_api_post"
+}
